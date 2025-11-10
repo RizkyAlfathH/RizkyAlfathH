@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Rizky Alfath Humaedi
 
-<!--
-**RizkyAlfathH/RizkyAlfathH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer | SMKN 11 Bandung (RPL)**  
+🚀 Passionate about building web apps with Django, Laravel, and Flutter.  
+🌱 Currently learning backend API development & Flutter integration.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+- **Languages:** Python, PHP, Dart, JavaScript  
+- **Frameworks:** Django, Laravel, Flutter  
+- **Databases:** MySQL, SQLite  
+- **Tools:** Git, VS Code, Postman
+
+---
+
+### 📊 GitHub Stats
+![Rizky's GitHub stats](https://github-readme-stats.vercel.app/api?username=RizkyAlfathH&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyAlfathH&layout=compact&theme=tokyonight)
+
+---
+> “Keep coding, keep learning, keep growing.” 🚀
