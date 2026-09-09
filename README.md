@@ -83,7 +83,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-white?style=flat-square&logo=github&logoColor=181717)](https://github.com/RizkyAlfathH)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/rizky-alfath-humaedi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/rizky-alfath-humaedi-6b6944331)
 [![Email](https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:rizkyalfath80@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-white?style=flat-square&logo=vercel&logoColor=000000)](https://porto-alfath.vercel.app)
 
